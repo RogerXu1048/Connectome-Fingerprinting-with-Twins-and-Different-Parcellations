@@ -12,4 +12,4 @@ sigstar.m: code from MATLAB file exchange by Rob Campbell. Annotates identificat
 Files needed to run the code are found in 'files to run scripts', 
 along with HCP 7T dataset scans located on Vanderbilt Accre at /data1/datasets/hcp/<subjId> 
 
-Also, our written report is in 'fmri proj - final report.pdf'
+Our written report is in 'fmri proj - final report.pdf'
